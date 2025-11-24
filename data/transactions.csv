@@ -1,0 +1,4 @@
+id,account_id,date,amount,category,description
+11,11,2025-11-15,700.0,expense,Grocery
+12,11,2025-11-24,2000.0,expense,Hungary Pass
+13,12,2025-11-22,500.0,income,Selling

@@ -1,0 +1,5 @@
+id,name,account_type,currency,balance
+11,Nayan,cash,HUF,1000.0
+12,Saidul,bank,HUF,2000.0
+13,Islam,cash,EUR,500.0
+14,Bakhram,bank,USD,1000.0
