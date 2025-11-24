@@ -4,7 +4,7 @@
 A small CLI-based personal finance manager written in Python for the course assignment.
 A separate .exe file named Finance manager.exe is also included to run the application directly.
 
-** [App.exe Download link]([Dowwnload](https://drive.google.com/file/d/1z06SPwhKnnyhDGbT0M09krx5_DCput2B/view?usp=sharing)) **
+** [App.exe Download link]([Download](https://drive.google.com/file/d/1z06SPwhKnnyhDGbT0M09krx5_DCput2B/view?usp=sharing)) **
 
 ## Features
 
